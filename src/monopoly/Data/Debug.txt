@@ -1,0 +1,35 @@
+Dog
+0
+
+7
+2000
+0
+False
+False
+0
+0
+760
+190
+5
+Leicester Sq
+Oxford St
+Regent St
+Pall Mall
+Whitehall
+2
+Yellow 2
+Pink 1
+0
+
+9
+2000
+0
+False
+False
+0
+0
+715
+420
+0
+0
+0
